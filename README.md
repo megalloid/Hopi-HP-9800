@@ -8,4 +8,4 @@ Dependencies:
 - pyserial
 - binascii
 
-Please, you can find all functions in source files hp9800.
+Please, you can find all functions in source file hp9800.py
